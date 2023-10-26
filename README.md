@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Akash</h1>
+<h1 align="center">Hi 👋, I'm Akash Desai</h1>
 <h3 align="center">Aspiring Web Developer | Proficient in JavaScript, React.js, HTML, CSS | Skilled in Node.js, Express.js, MySQL, Python, Java | Passionate about Crafting User-Focused Web Experiences.</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 

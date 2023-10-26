@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akashdesai954@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BKvlPHgf3t-2l1ugfwJTfEqPO7XE98mg/view?usp=sharing](https://drive.google.com/file/d/1BKvlPHgf3t-2l1ugfwJTfEqPO7XE98mg/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1BKvlPHgf3t-2l1ugfwJTfEqPO7XE98mg/view?usp=sharing](https://drive.google.com/file/d/1BKvlPHgf3t-2l1ugfwJTfEqPO7XE98mg/view?usp=sharing)
 
 - ⚡ **I love to redline my Bike**
 

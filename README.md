@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsdesai&label=Profile%20views&color=0e75b6&style=flat" alt="akashsdesai" /> </p>
 
-- 🔭 [E-commerce](https://e-service-web.netlify.app/)
+- 🔭 [AI Summarizer](https://ai-summarizer-akash.netlify.app/)
 
 - 🌱 I’m currently learning **Next JS**
 

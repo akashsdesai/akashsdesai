@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👯 [Travel clone](https://travel-ocean.netlify.app/)
+- 👯 [E-commerce](https://e-service-web.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://akash-sh-desai-portfolio.netlify.app/](https://akash-sh-desai-portfolio.netlify.app/)
 
